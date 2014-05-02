@@ -1,0 +1,123 @@
+.testimonal
+{
+	background: #fff;
+	padding-top: 0px;
+	margin-top: 8px;	 
+	width:75%;	 
+	margin: 0 auto;	
+}
+#slider_content
+{
+    width:100%;
+    overflow:hidden;
+    margin: 0 auto;
+    text-align: center;
+    background: url([[setting:testimonialbackground]]) no-repeat 0 0;
+    background-size:100% 100%;
+    position:relative;
+    z-index:0;
+    
+}
+.testi_sepicon
+{
+	height:54px;
+	overflow:hidden;	
+	margin:0px 0 0 0px; 
+	text-align:center;
+	position:relative;
+	top:26px;
+	z-index: 1;
+}
+.testi_sepicon img
+{
+	z-index:999;
+	margin-top:0px;
+}
+
+.slidercontent
+{
+	width:981px;
+}
+.testi_title h2
+{
+	text-align:center;
+	font-size:25px;
+	color:#fff;
+	font-family:arial;
+	padding-top:60px;
+}
+.sepline
+{
+	margin-top:-97px;
+}
+/* First Example: Info */
+    .example_info .ocarousel_window {
+       
+        height: 180px;
+        width:100%;
+         
+    }
+        .ocarousel_window_slides div {
+            text-align: center;
+            height: 150px;
+            margin-right: 4px;
+            padding: 8px;
+            color:#e9e6e6;
+            font-family:arial;
+        }
+        .ocarousel_window_slides div h4 {
+            float: none;
+            color:#f4e5a1;
+            font-size:15px;
+            padding-top:30px;
+            font-family:arial;
+        }
+        .ocarousel_window_slides div p {
+            text-align: left;
+            color:#e9e6e6;
+            font-size:15px;
+            padding-left:3%;
+            padding-right:27%;
+            font-family:arial;
+        }
+        a[data-ocarousel-link] {
+            color: #000000;
+        }
+
+/* Second Example: Photos */
+
+    .example_photos .ocarousel_window {
+        background: #202020;
+        border: 4px #202020 solid;
+        border-radius: 12px;
+        height: 180px;
+        width: 900px;
+    }
+        .example_photos .ocarousel_window_slides img {
+            padding: 8px 16px;
+        }
+        .example_photos_thumbs {
+            text-align: center;
+        }
+        .example_photos_thumbs img {
+            border-top: 3px #ffffff solid;
+            border-left: 3px #ffffff solid;
+            border-right: 3px #ffffff solid;
+            border-bottom: 10px #ffffff solid;
+            box-shadow: #202020 4px 4px 4px;
+        }
+        
+/* Third Example: Text */
+.example_text {
+    text-align: center;
+}
+    .example_text .ocarousel_window {
+        height: 400px;
+        width: 400px;
+        margin: 0 auto;
+        padding: 0;
+    }
+        .example_text .ocarousel_window_slides div {
+            width: 384px;
+            height: 384px;
+        }

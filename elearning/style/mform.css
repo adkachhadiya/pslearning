@@ -1,0 +1,21 @@
+
+/** Mforms **/
+.mform fieldset{border:1px solid #ccc;margin-bottom: 10px;}
+.mform .fitem{margin-top:0;margin-bottom:10px}
+.mform .fitem .fitemtitle{width:auto;float:none;text-align:left}
+.mform fieldset legend{color:#FF7D3F;font-size:16px;padding:0 5px;}
+.mform .fitem .fitemtitle label{font-size:13px;display:block;margin-bottom:5px}
+.mform .fitem .felement{width:auto;margin-left:0;display:block;margin-bottom:10px;float:none}
+.mform .fitem select{font-size:12px}
+.mform .fitem .fstatic{font-size:12px}
+.mform .fitem .feditor {margin-bottom:10px}
+.mform .fitem .feditor table{width:auto!important;}
+.mform .fitem .feditor iframe{min-height:260px!important}
+.mform .fitem .feditor td{padding:0}
+.mform .fitem .feditor texarea{height:300px}
+.mform .fitem .feditor select{margin-top:10px}
+.mform label{font-size:13px;margin-bottom:5px}
+.mform .error{font-size:13px}
+.mform .error, .mform .required,.mform .fdescription.required {color:#DF0B0A;line-height:1.5}
+.mform .fdescription.required{font-size:12px}
+.mform input[type="submit"], .mform input[type="button"], .mform button{font-size:13px}

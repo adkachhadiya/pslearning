@@ -1,0 +1,192 @@
+/* ----------Admin------------- */
+#region-main .singleselect, #region-main .urlselect {margin-top:5px;font-size:13px}
+#region-main .singleselect select, #region-main .urlselect select{width:auto;display:block}
+.singleselect label{margin-right:5px}
+#page-mod-quiz-edit #region-main{overflow:hidden}
+#page-mod-quiz-edit div.quizpage span.pagetitle{float:none; color:#FF7D3F;font-weight:bold;font-size:13px;margin-top:0;line-height:1.5;margin-bottom:5px}
+#page-mod-quiz-edit div.quizpage .pagecontent{float:none;padding:5px; background:#efefef;border:1px solid #ccc;margin:0;overflow:hidden;width:auto}
+#page-mod-quiz-edit div.question div.content div.points{margin:0;border-left:none;padding:5px;line-height: 1;max-width: 30%;right: 46px;}
+#page-mod-quiz-edit div.editq div.question div.content{background:#efefef}
+#page-mod-quiz-edit div.question div.content div.questioncontrols{background:#efefef}
+#page-mod-quiz-edit div.quizpage{margin-bottom:10px}
+#page-mod-quiz-edit .quizpagedelete img{background:#fff}
+#page-mod-quiz-edit .pagecontrols .helplink{margin-top:10px}
+.questionbankwindow.block, #page-mod-quiz-edit div.quizcontents{float:none;font-size:13px;line-height:1.5}
+.questionbank .singleselect{font-size:13px}
+#qtypechoicecontainer #chooseqtype .qtypeoption{text-align:left;font-size:13px}
+#page-mod-quiz-edit .questionbankwindow div.header{background:#fff;color:#FF7D3F;padding:5px;}
+#page-mod-quiz-edit .questionbankwindow div.header h2{color:#FF7D3F}
+#page-mod-quiz-edit .questionbankwindow div.header a{color:#FF7D3F}
+#page-mod-quiz-edit .questionbankwindow {padding:5px;border:1px solid #ccc;width:auto!important}
+#page-mod-quiz-edit h2.main{font-size:13px}
+.quizattempt .singlebutton{font-size:13px}
+.questionbank .choosecategory{margin-top:10px}
+#page-mod-quiz-edit div.questionbank{background:#fff}
+#page-mod-quiz-edit .categoryinfo{background:#fff;border:none}
+#page-mod-quiz-edit div.quizpage .pagecontent .pagestatus{padding:0}
+.questionbankwindow.block{right:10px}
+#page-mod-quiz-edit div.quizcontents{width:auto}
+#page-mod-quiz-edit .questionbankwindow{width:200px}
+#page-mod-quiz-edit div.question div.content div.points input{padding:0 5px}
+.questioncontainer input[type=text]{width:auto}
+#page-mod-quiz-edit .reorder div.question div.content{background:#efefef}
+.path-mod-survey #surveyform th{width:400px}
+#surveyform{line-height:1.5}
+#surveyform table select, #surveyform table textarea{font-size:13px}
+.path-mod-survey #surveyform  textarea{margin-bottom:0;width:100%;font-size:13px}
+.path-mod-survey .smalltext{font-size:13px}
+.path-mod-survey .spacer{display:none}
+.mod_introbox{border:1px solid #ccc;margin-bottom:10px}
+.mod_introbox p{font-size:13px}
+.resourceworkaround{font-size:13px}
+.path-mod-workshop .userplan{width:100%;font-size:13px;line-height:1.5}
+.path-mod-workshop .userplan th.active{font-size:13px}
+.path-mod-workshop .userplan th{padding:5px 10px;background:#FF7D3F;color:#fff;border:1px solid #ccc;vertical-align:inherit;}
+.path-mod-workshop .collapsibleregioncaption{margin-bottom:10px;font-size:13px}
+.user-grade td.oddd1{background:#FF7D3F;color:#fff}
+.mdl-chat-my-entry .chat-message .meta{background:#efefef!important;font-size:13px;line-height:1.5}
+.mdl-chat-entry, .mdl-chat-my-entry{-moz-border-radius:0!important; -webkit-border-radius:0!important; border-radius:0!important;border:0!important;}
+#chat-userlist{background:#eee!important;}
+#chat-userlist td{border:none;vertical-align:middle;padding:5px}
+#chat-userlist td a{color:#FF7D3F}
+#chat-userlist td input{border:1px solid #ccc!important}
+#chat-input-area, #chat-input-area table.generaltable, #chat-input-area table.generaltable td.cell{background:#efefef!important;}
+.yui-skin-sam .yui-layout-unit-bottom{border:none!important;}
+#chat-input-area {padding:10px}
+#chat-input-area a{color:#FF7D3F!important}
+#chat-messages a{color:#FF7D3F}
+.mdl-chat-my-entry .chat-message .text{background:#fff!important;font-size:13px;line-height:1.5}
+.yui-skin-sam .yui-layout-unit-right{background:#fff!important}
+#page-mod-chat-gui_basic-index #page, #page-mod-chat-report #page{min-height:0}
+#page-mod-chat-gui_basic #messages{font-size:13px}
+#page-mod-chat-gui_basic #participants ul li .userinfo{margin-left:5px}
+.message .messagearea{width:70%}
+.message .contactselector{width:24%}
+.contactselector #viewing {width:120px}
+.block_tags #coursetag .coursetag_form_wrapper{overflow: hidden}
+.block_tags .coursetag_list .tag-cloud li a {font-size: 13px !important;font-weight:bold;}
+#region-post .block_accessibility input#block_accessibility_launchtoolbar{width:auto}
+.ie7 #accessibility_controls ul{width:200px;}
+.ie7 #accessibility_controls .access-button{float:left;display:inline;zoom:1;margin-bottom:5px}
+.block_tags #coursetag .coursetag_form_wrapper .coursetag_form_positioner .coursetag_form_input2{width:auto;}
+#page-login-index .loginbox-home-page {display:none;}
+.notloggedin .loginbox-home-page {display:block;}
+.loginbox-home-page h2{text-align:left; margin:0; padding:0}
+.loginbox-home-page{text-align:left}
+.loginbox-home-page .loginform .form-label{width:68px; text-align: left}
+.loginbox-home-page .loginform .form-input{float:left;}
+.glossarydisplay .entrybox{font-size:13px;line-height:1.5}
+#page-mod-glossary-view .glossarycontrol{float:none;}
+#page-enrol-instances .generalbox{overflow:auto;}
+.fieldadd,.sortdefault{font-size:13px}
+.reportlink{font-size:13px;line-height:1.5}
+.path-mod-lesson .firstpageoptions{margin:0;width:auto}
+.wiki_right, .wiki-tags{font-size:13px}
+.wiki_navigation_from{font-size:13px}
+#page-mod-wiki-files .singlebutton{font-size:13px}
+
+
+
+.box.copyright{color:#FF7D3F;border:1px solid #FF7D3F;background-color:#fff;font-size:13px;line-height:1.5;padding:10px}
+#admindeviceselector{width:90%}
+#admindeviceselector td.c1 img{width:406px}
+.admin .box.adminwarning{color:#9F6000;border:1px solid #9F6000;background-color:#FEEFB3;font-size:13px;padding:5px}
+#page-admin-report-security-index .statuswarning{background:#9F6000;color:#fff;padding:2px}
+#page-admin-report-security-index .statuscritical{background:#DF0B0A;color:#fff;padding:2px}
+#adminsettings fieldset{background-color:#efefef;margin-bottom:10px;margin-top:0;font-size:13px;border:none;padding:10px;line-height:1.5}
+#adminsettings fieldset h3{font-size:13px}
+#adminsettings fieldset .generalbox{border-color:#ccc;margin:0}
+#adminsettings .form-item .form-label{float:none;display:block;text-align:left;margin-bottom:5px;width:auto;font-size:13px;line-height:1.5}
+#adminsettings .form-item .form-label label{color:#FF7D3F}
+#adminsettings .form-item .form-setting{float:none;display:block;text-align:left;margin-bottom:10px;margin-left:0}
+#adminsettings .form-item .form-label .form-shortname{word-wrap:break-word;font-family:Arial, Helvetica, sans-serif;color:#999}
+#adminsettings .form-item .form-description p{word-wrap:break-word}
+#adminsettings .form-item .form-setting .form-password .unmask,#adminsettings .form-item .form-setting .form-defaultinfo{display:block;font-size:13px;white-space:nowrap}
+#adminsettings .form-item .form-textarea textarea{font-size:13px;height:200px;width:auto}
+#adminsettings .form-item input[type=checkbox],#adminsettings .form-item input[type=radio]{margin-left:0;margin-bottom:5px}
+#adminsettings .form-buttons{font-size:13px;margin:0}
+.buttonsbar input{margin-right:10px}
+.userselector select{height:auto;min-width:200px}
+.path-admin .roleassigntable input[type=text]{width:220px}
+.path-admin .roleassigntable #buttonscell{width:100px;font-size:13px}
+.path-admin .roleassigntable #buttonscell input{background:#fff;color:#FF7D3F;text-decoration:underline;font-weight:700}
+.path-admin .roleassigntable #buttonscell #addcontrols{height:auto}
+.path-grade-report-grader th{padding:5px 10px}
+table#user-grades th.range{color:#555}
+table#user-grades td, table#user-grades th{font-size:13px}
+.path-admin .roleassigntable #buttonscell #add,.path-admin .roleassigntable #buttonscell #remove{padding:0}
+.path-admin-report-customlang #translator .customized.modified{background:#FF7D3F}
+.path-admin-report-customlang #translator .modified{background:#FBB515}
+.path-admin-report-customlang #translator .customized{background:#FF7D3F}
+table#user-grades{font-size:13px;width:100%}
+.gradetreebox td.colspan,.gradetreebox tr.category .cell{background-color:#efefef}
+.user-grade thead{border-bottom:1px solid #ccc}
+#authmenu .informationbox{margin-bottom:10px;border:0;background-color:#fff;padding:10px}
+#authmenu hr{display:none}
+#categoryquestions{margin-left:auto;margin-right:auto;width:100%}
+#categoryquestions th,.user th,.user th.header,.group th.header,.admin table tr th,.admin table tr th.header{color:#FF7D3F;background:#fff}
+.user th a,#categoryquestions th a,.group th a,.admin table tr th a{color:#FF7D3F;text-decoration:none;font-size:13px;display:inline-block;margin-bottom:5px}
+.user th a:visited,#categoryquestions th a:visited,.group th a:visited,.admin table tr th a:visited{text-decoration:underline}
+.user tr td.cell,#categoryquestions tr td.cell,.group tr td.cell,.admin table tr td.cell{border:1px solid #ccc;border-width:0 1px}
+.user .r1 .cell,#categoryquestions .r1 .cell,.group .r1 .cell,.admin table .r1 .cell{background-color:#efefef;color:#555}
+.singlebutton,.buttons{margin:10px 0}
+#region-main .buttons .singlebutton{display:inline;font-size:13px;margin:0;padding:0}
+.admin .generalbox{border:none;margin-bottom:10px;overflow:hidden;line-height:1.5;padding:0}
+.admin table.generalbox{overflow:auto}
+.admin #region-main table{background:#fff}
+#page-admin-setting-themesettings #region-main table input{width:150px}
+.groupmanagementtable #buttonscell input{min-width:80px;font-size:13px}
+.groupmanagementtable #buttonscell{padding:23px 0 5px}
+#page-admin-report-customlang-index .continuebutton{text-align:center}
+#page-admin-report-customlang-index #region-main h2{margin-bottom:15px!important}
+#adminsettings #admin-emoticons table td input,#adminsettings #admin-emoticons table td.c0 input{width:60px}
+#page-admin-report-configlog-index #region-main .region-content,#page-admin-xmldb-index #region-main .region-content{overflow:auto}
+#page-enrol-users .enrol_user_buttons{float:none}
+.enrolpanel .container .header h2{background-color:#FF7D3F;color:#fff;margin:0;padding:5px}
+.block_settings .block_tree .tree_item.branch{font-weight:700}
+.jsenabled .block_navigation .block_tree .collapsed .tree_item.branch img{position:relative;left:0}
+.block_settings .block_tree li{zoom:1}
+#region-post .block_settings .block_tree .active_tree_node a{color:#D5490F}
+.initialbar a{margin-left:4px}
+table#user-grades td{border-color:#ccc}
+.form-item .form-setting .defaultsnext,.buttons form,.buttons div{display:inline}
+table#user-grades .catlevel1,table#user-grades .r1,.path-grade-report-grader table tr.even td.cell,.path-grade-report-grader table tr.even th,.path-mod-choice .results .data.header{background:#FF7D3F;color:#fff}
+#authmenu table td,#admin-mnet-index table td,#files-index .column-content table td{border-width:0}
+table#user-grades .item,table#user-grades tr.heading th.categoryitem,table#user-grades tr.heading th.courseitem{background-color:#FF7D3F}
+.tag-management-form{font-size:13px;line-height:1.5;margin-bottom:10px}
+input#id_addotags{height:32px}
+.path-backup .backup_progress{font-size:13px;text-align:left;line-height:1.5}
+#page-course-report-log-index .info,#page-course-report-log-indexlive .info{margin-left:0;font-size:13px}
+.participationselectform input[type=submit]{clear:both;float:none;display:block}
+#page-course-report .participationselectform label,#page-course-report-participation-index .participationselectform label{display:block;margin-bottom:5px;margin-left:0}
+#page-admin-report-courseoverview-index #content{text-align:center;font-size:13px;padding-top:20px;line-height:1.5}
+.path-admin-report-customlang .mform.filterform{width:100%}
+#adminsettings .form-item,#adminsettings .form-item .form-textarea,.advancedoverride,.collapsibleregion{margin-bottom:10px}
+#adminsettings .form-item .form-setting table,.boxwidthnormal,.boxwidthwide,.path-admin-report-customlang #translator textarea{width:auto}
+#adminsettings .form-item .form-description,#page-enrol-users .enrol_user_buttons .enrolusersbutton{font-size:13px;margin-left:0}
+#adminsettings .form-item select,.filemanager-toolbar,.continuebutton,.path-admin .roleassigntable #existingcell,.path-admin .roleassigntable #potentialcell,.userenrolment,.logselectform,.errorbox,#page-course-report-log-index .generaltable,.participationselectform,#adminthemeselector{font-size:13px}
+.backlink .singleselect label,.path-admin .roleassigntable label{display:block;margin-bottom:5px}
+.path-admin .roleassigntable td,#adminsettings #admin-emoticons table td,#adminsettings #admin-emoticons table th,.userenrolment td{padding:5px}
+.user-grade td.b1l,.user-grade td.b2l,.user-grade td.b1t,.user-grade td.b2t,.user-grade td.b1t,.user-grade td.b2b,#adminthemeselector .selectedtheme td.c0,#adminthemeselector .selectedtheme td.c1{border:1px solid #ccc}
+.userenrolment .header a,.gradetreebox table,.user-grade,#page-admin-qbehaviours .cell.c3,#page-admin-qtypes .cell.c3,.enrolpanel .container .content input,#adminthemeselector h3{font-size:13px}
+#page-files-index .generalbox,#page-enrol-instances .generalbox,#page-grade-report-grader-preferences .generalbox,.path-admin-report-customlang fieldset.buttonsbar{border:none}
+#admin-calendar_weekend {font-size:13px}
+#messageprocessor_jabber,#messageprocessor_email,#messageprocessor_general{font-size:13px;line-height:1.5}
+#page-admin-roles-allow form{overflow:auto}
+.form-multicheckbox label{font-size:13px}
+#page-admin-local-qeupgradehelper-index #region-main li{font-size:13px;line-height:1.5}
+.comment-delete-confirm{font-size:12px}
+#displayoptions label{font-size:13px}
+#adminsettings .form-item .form-setting .defaultsnext {font-size:13px}
+#page-admin-langimport fieldset{border:none}
+#adminsettings .form-item .form-setting .group label{font-size:13px}
+.path-admin .generaltable{font-size:12px}
+.questionbankwindow .boxaligncenter, .questionbankwindow .createnewquestion{font-size:13px}
+#page-admin-roles-explain #chooseuser h3, #page-admin-roles-usersroles .contextname{font-size:13px;}
+#page-mod-assignment-submissions .mform.optionspref .fitem .felement{margin-left:0;}
+#page-mod-assignment-submissions .usersubmissions div.no-overflow{overflow:auto;}
+.mod-assignment-download-link{margin-bottom:10px;}
+.categorylist .category .image{margin-right:5px;}
+.categorylist .category .name, .categorylist .indentation .name{margin-bottom:5px;}
+.course_category_tree .category .courses .course_link{padding-bottom:5px;}
+

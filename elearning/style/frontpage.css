@@ -1,0 +1,8 @@
+
+/* Site Home - Front page */
+.course_category_tree .category{font-family: 'Arvo', Georgia, Times, serif;;}
+.course_category_tree .category .course{margin-bottom:10px}
+.course_category_tree .category_label{padding-left:20px;font-weight:bold;font-size:14px;}
+.course_category_tree .category.with_children > .category_label{margin-bottom:10px}
+.course_category_tree .controls div{margin-right:10px; color:#555;font-size:12px;}
+.course_category_tree .controls{text-align:center}

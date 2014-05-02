@@ -1,0 +1,289 @@
+.welcome
+{
+	background: url([[setting:pagebackground]]);
+	background-size:100% 100%;	
+	margin-top: 8px;	 
+	width:75%;
+	height:381px;
+	padding-top: 0px;	 
+	margin: 0 auto;
+}
+.wel-headding
+{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.wel-headding h1
+{
+	font-size:26px;
+	color:#000;
+	font-weight:normal;
+	font-family:arial;
+	width:85%;	
+	padding-left:20px;
+	margin:0px;
+}
+.wel-headding h2
+{
+	font-size:18px;
+	color:#1a91d6;
+	font-weight:normal;
+	font-family:arial;
+	width:85%;
+	float:left;
+	padding-left:20px;
+	margin-top:7px;
+	margin-bottom:7px;
+}
+.wel-headding p
+{
+	color:#676869;
+	font-family:arial;
+	font-size:15px;
+	font-weight:normal;
+	width:51%;
+	padding-left:20px;	 
+}
+.wel-headding a
+{
+	margin-top:20px; 
+	background-color: #1A91D6;
+	float:left;
+	color:#fff; 
+	display:inline-block;
+	border:2px solid #1A91D6;	 
+    font-size: 15px;
+	font-family: arial;
+    padding-bottom: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 5px;       
+    font-weight:bold;    
+    text-decoration:none;
+    margin-left:20px;
+}
+.wel-headding a:hover 
+{
+	color:#1A91D6;
+	background-color: #fff;
+	text-decoration:none;
+}
+.upcourse_sepicon
+{		
+	height:70px;
+	overflow:hidden;	
+	margin:0px 0 0 0px; 
+	text-align:center;
+	position:relative;
+	top:26px;
+	z-index: 1;
+}
+.upcourse_sepicon img
+{
+	z-index:999;
+	margin-top:20px;
+}
+.upcourse
+{
+	background: #fff;
+	padding-top: 0px;
+	margin-top: 8px;	 
+	overflow:hidden;
+	width:75%;
+	margin: 0 auto;	
+}
+.upcominghead
+{
+	width:100%;
+	background: #fff;
+	padding-top: 40px;
+    text-align: center;
+	border-top:1px solid #d8f2ff;	
+}
+.upheadtitle h4 
+{
+	color:#000000 !important;
+	font-size:28px;
+	font-family:arial;
+	margin:0px;
+	padding-bottom:15px;
+}
+.upheadtitle p
+{
+	color:#a6a6a6;
+	font-size:15px;
+	font-family:arial;
+	padding-bottom:5px;
+	
+}
+.upcoming-course
+{	 
+	width:100%;
+	background: #fff;
+}
+.courseleft
+{
+	width:30%;
+	height:100%;
+	float:left;
+}
+.courseright
+{
+	width:70%;	
+	float:right;
+	overflow:hidden;
+}
+.coursesbox
+{
+	width:100%;
+	overflow:hidden;
+	border-bottom:2px dotted #d8f2ff;
+	padding-top:10px;
+}
+.coursesbox .datediveded
+{	 
+	width:17%;	 
+	float:left;
+	height:100%;
+}
+.coursesbox .sdate
+{	 
+	color:#a6a6a6;
+	font-size:15px;
+	font-family:arial;	 	 
+	float:left;
+	padding-top:20px;
+}
+.coursesbox .diveded
+{
+	background:url([[pix:theme|upcomining_divider]]) no-repeat;	 
+	width:3px; 	 
+	height:64px;
+	float:right;
+}
+.coursecontent
+{
+	width:80%;	
+	float:right;	 
+}
+.coursecontent a
+{	
+	color:#000;
+	font-size:18px;
+	font-family:arial;
+}
+.coursecontent p
+{
+	margin-top:0px; 
+	color:#a6a6a6;
+	font-size:15px;
+	font-family:arial;
+}
+.viewcourse
+{
+	background:url([[pix:theme|view_all_coureses]]) no-repeat;	 
+	top:26px;
+	z-index: 0;
+	height:auto;
+	width:auto;
+	margin-left:2%;
+}
+#viewcourse
+{
+	width:100px;
+	height:189px;
+}
+.viewcourse img
+{
+	z-index:999;	 
+}
+.searchcourse
+{
+	background:url([[pix:theme|coureses_search]]) no-repeat;	
+    z-index:1;
+    margin-left:83px;
+    margin-top:-63px;
+   	height:140px;
+}
+.searchcourse input
+{
+	color: #1A91D6;
+    font-family: arial;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-left: 19px;
+    margin-right: 0;
+    margin-top:68px;
+    width: 90px;
+    background:#B9BBBD;
+    border:none;
+    height:25px;
+    
+    
+}
+ 
+.purchase
+{
+	background:#e9eff2;
+	padding-top: 0px;
+	margin-top: 8px;
+	height:50px;
+	overflow:hidden;
+	width:75%;
+	padding-top:48px;
+	padding-bottom:48px;	 
+	margin: 0 auto;
+} 
+.purchaseboxleft 
+{
+	font-size:25px;
+	color:#2a2929;
+	font-weight:normal;
+	font-family:arial;
+	width:74%;	
+	float:left;
+	margin-left:6%;
+	overflow:hidden;
+	height:100px;
+}
+.purchaseboxright a
+{
+	background-color: #1A91D6;
+	float:right;
+	color:#fff; 
+	display:inline-block;
+	border:2px solid #1A91D6;	 
+    font-size: 16px;
+	font-family: arial;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 13px;    
+    width:93px;
+    text-decoration:none;
+    text-align:center;
+    margin-right:3%;
+    overflow:hidden;
+}
+.purchasebox a:hover
+{
+	color:#1A91D6;
+	background-color: #fff;
+	text-decoration:none;
+}
+.newsandmediablocks
+{
+	background: #fff;
+	padding-top: 0px;
+	margin-top: 8px;	 
+	overflow:hidden;
+	width:67%;
+	padding: 0 48px;
+	margin: 0 auto;	
+}
+.newsandmedia
+{
+	height:381px;
+	width:100%;
+	background: #fff;	
+}

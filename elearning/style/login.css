@@ -1,0 +1,42 @@
+/** Login **/
+.loginbox{margin:0}
+.loginbox .loginform{margin-top:15px}
+.loginbox .loginform .form-label{float:left;margin-bottom:10px}
+.loginbox .loginform .form-label label{position:relative;top:1px;width:338px;padding-right:5px;}
+.loginbox.twocolumns .loginform .form-label label{width:135px}
+.loginbox .loginform .form-input{float:left;text-align:left;width:auto}
+.loginbox .loginform .form-input input{width:220px}
+.loginbox.twocolumns{border:0;margin:0}
+.loginbox.twocolumns .loginpanel{float:left;width:49%;text-align:center;border:none}
+.loginbox.twocolumns .signuppanel{float:left;width:50%;border-left:1px solid #ccc}
+.loginbox.twocolumns .signuppanel h2{text-align:center}
+.loginbox.twocolumns .signuppanel .subcontent{margin:0 10px}
+.loginbox .loginsub{margin-bottom:5px;padding:10px}
+.loginbox .guestsub{margin-bottom:5px;border-top:1px solid #ccc;padding:10px}
+.forgetpass{font-size:12px}
+.loginform input[type=submit],#guestlogin input[type=submit]{font-size:13px}
+input#loginbtn{display:block;border:none;width:auto;clear:both}
+.loginbox .loginpanel .desc,.loginbox.twocolumns .signuppanel p{font-size:13px;line-height:1.5}
+.rememberpass
+{	
+	padding-left:43%;
+}
+.rememberpass input
+{
+	float:left;
+	margin-top:2px;
+}
+.rememberpass label
+{
+	float:left;
+}
+ 
+.forgetpass a
+{	 
+	padding-left:32%;
+	width:100%;
+}
+.desc
+{
+	text-align:center;
+}

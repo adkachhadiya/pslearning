@@ -1,0 +1,50 @@
+menu: font size 3.36pt Font family Open Sans  color#0b7fc3 Active  Un active color:#677f8a 
+
+Login Btn bg color #1a91d6  font semi bold 
+
+Welcome font size 6.24pt color #000000 font family Open Sans
+
+Committed font size 4.32pt color #1a91d6  font family Open Sans
+
+lorem ipsume text color #676869 font size 3.6pt font family similore 
+
+read more font size 3.6pt color#ffffff font family similore 
+
+Up coming title Font size 6.72 pt color #000000
+
+text color #a6a6a6  font size 3.6pt font family similore 
+
+
+Testimonials font size : 6.72pt color:#ffff font family similore 
+ 
+testimonials text font size : 3.6pt color:#e9e6e6  family similore 
+
+testimonials name  color #f4e5a1 size : 3.6pt color:#e9e6e6  family similore
+
+
+Quick-Start color:#2a2929  family similore  font size :6pt
+
+Purchase color:#747474  family similore  font size :4.8pt 
+
+Quick-start bg color #e9eff2;
+
+News & Media
+
+Title :color#000000 font size  6.72pt family similore
+
+heading font size 3.84pt color #1a91d6; FS
+
+date color#5a5a5a; font size 3.36pt style italic FS
+
+Test : color #000000 font size 3.36pt FS
+
+vedio text color #5c5a5a font size 3.36pt FS
+
+BG color #d5dbde
+
+
+footer copyright text color #677f8a font size 3.36pt FS
+
+footer Top color #1a91d6
+
+footer BTM color #096498

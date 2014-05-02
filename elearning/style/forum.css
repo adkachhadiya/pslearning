@@ -1,0 +1,29 @@
+/** Forum **/
+.forumheaderlist,.forumpost {margin-top:15px;border:1px solid #ccc;}
+.forumnodiscuss{font-size:13px;}
+.forumpost td {border-width:0px; font-size:13px;}
+.forumpost .topic {background-color:#fff; border-bottom:1px solid #efefef;font-size:12px;line-height:1.5}
+.forumpost .topic .subject {font-weight:bold;}
+.forumpost .topic .author {font-size:13px;}
+.forumpost .left {background-color:#fff; padding:4px;text-align:center;vertical-align:top;width:35px;}
+.forumpost .content .posting{font-size:13px;height:auto;overflow:hidden}
+.forumpost .content .commands {font-size:13px;clear:both;padding-top:0.5em;text-align:right;}
+.forumpost .content .link {font-size:13px;}
+.forumpost .content .footer {font-size:12px;padding-top:0.5em;text-align:right;}
+.path-mod-forum .forumheaderlist td {border: 1px solid #ccc;}
+.path-mod-forum .forumheaderlist {border-collapse: collapse;}
+.path-mod-forum .forumheaderlist{font-size:13px}
+.forumheaderlist, .forumpost{margin-top:10px}
+#page-mod-forum-discuss .no-overflow{width:auto}
+.forumpost .content{padding:10px}
+.forumpost .topic .subject{padding-top:10px;}
+.forumpost .topic .author{padding-bottom:5px;}
+.forumheaderlist, .forumpost{padding:5px;}
+.forumpost .side .left{background-color:#fff;}
+#page-mod-forum-discuss .discussioncontrols{font-size:13px}
+#page-mod-forum-discuss .discussioncontrol.displaymode{text-align:left;}
+#page-mod-forum-discuss .discussioncontrol.movediscussion{float:none;text-align:left}
+#page-mod-forum-discuss .discussioncontrols .discussioncontrol{float:none;width:auto}
+.forumpost .row .options{font-size:12px}
+.forumthread{font-size:13px}
+

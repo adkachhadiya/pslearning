@@ -1,0 +1,108 @@
+html, body {height: 100%;}
+body{text-align:center!important; font-family: Arial, Helvetica, sans-serif;}
+a{color:#000}
+#page
+{
+	min-height:100%;
+	background:#d8f2ff; 
+	text-align:left; 
+	-webkit-text-size-adjust: 100%; 
+}
+#page-header-inner,#page-content
+{
+	width:74%;	
+	padding: 0 0px;
+	margin: 0 auto;
+}
+
+/* YUI popup */
+.yui-panel-container .yui-panel{font-size:13px!important;}
+.file-picker .fp-viewbar{font-size:13px}
+#helppopupbox .yui3-widget-bd{padding:10px;font-size:13px;text-align:left;line-height:1.5}
+#helppopupbox .yui3-widget-bd ul{margin-bottom:10px;margin-left:10px;}
+.moodle-dialogue-base .moodle-dialogue-hd{background:#FF7D3F; color:#fff}
+
+/* Course search */
+#coursesearch input[type=text] {background: transparent;padding-left: 20px;}
+ 
+
+/* user profile */
+.userprofile{margin:0 20px}
+.profilepicture{margin-bottom:10px}
+.course-content{padding:0}
+.course ul.section{margin:0;clear:both;margin-top:10px}
+.course-content li.section h3.sectionname{font-size:1.4em}
+.course-content ul.topics li.section{margin:0 0 10px;border-top:1px solid #ddd;padding-top:10px}
+.course-content ul.topics li.section .content, .course-content ul.weeks li.section .content{margin-left:0; margin-right:0;padding:0}
+.course-content ul.weeks li.section {padding-top:10px}
+.course-content ul.weeks li#section-0 .right, .course-content ul.weeks li#section-0 .left{display:none}
+.course-content .current{background:#fff}
+.course-content .headingblock.outline{display:none}
+.no-overflow{width:100%;overflow:hidden;padding-bottom:0}
+/* Glossary */
+.glossarypost th, .glossarypost td, .glossarycategoryheader th, .glossarycategoryheader td{border:none;padding:0;}
+
+/** General **/
+.generalbox{border:1px solid #ccc;font-size:13px;margin-bottom:0px;padding:10px}
+#searchform table td,#searchform table th{border:none}
+#notice.generalbox{background:#fff}
+.modified{font-size:12px;margin-top:10px;color:#FF7D3F}
+.generaltable{width:100%;font-size:12px;border:1px solid #ccc}
+.generaltable th{width:auto!important}
+.generaltable td{width:auto!important;border-width:0}
+.generaltable input[type=text]{width:200px;margin-bottom:0}
+.sitetopic{border:0;padding:0}
+.headingblock{margin-bottom:10px;padding:0}
+.coursebox{width:auto;overflow:hidden;padding-bottom:10px;margin:10px 0}
+.coursebox .info{width:35%;float:left}
+.coursebox .info h3{font-size:16px;line-height:1.5}
+.coursebox h3.main{font-size:16px;line-height:1.5}
+.coursebox .summary{width:60%;float:right;font-size:13px}
+.course-content #intro.generalbox{padding:10px}
+#page-course-view-social .course-content,#page-course-view-scorm .course-content{margin:0 20px}
+.course-content li.section.main .content{clear:both;margin-top:10px}
+.course-content .headingblock.outline{margin-top:0}
+.course-content .section.main{border:0;margin-bottom:10px;position:relative}
+.course-content .section .activity img.activityicon{vertical-align:bottom}
+.course-content ul.topics li.section .left{font-size:13px;font-family:'Arvo', Georgia, Times, serif;;display:inline-block;margin-bottom:10px}
+.course-content .section.main .right.side{margin-bottom:10px}
+.course-content .section.main .content .section_add_menus{text-align:left;font-size:13px}
+.course-content .section.main .content .section_add_menus .helplink{float:left}
+.section_add_menus .horizontal div,.section_add_menus .horizontal form{display:block;overflow:hidden}
+#course-user .section{border:1px solid #ccc;margin:0}
+.course-content ul.section li.activity{margin-bottom:10px;font-size:13px}
+#course-user .section table td{border:1px solid #ccc}
+.generaltable .cell{background-color:#fff;border:1px solid #ccc}
+.generaltable .header{background-color:#FF7D3F;color:#fff;border:1px solid #ccc;font-weight:700;white-space:inherit;}
+.generaltable .header a {color:#fff;}
+.jumpmenu{margin-top:10px}
+.jumpmenu label{margin-right:5px;font-size:13px}
+.course-content .summary,.jumpmenu select,#coursesearch,#coursesearch2,#page-filter-manage .backlink,.path-admin-roles .backlink,.userprofilebox table{font-size:13px}
+.course-content ul.section,#course-user .section h2,#course-user .section .content{margin:0}
+
+/** Tags **/
+.tag-management-form {text-align:center;border:none}
+#tag-management-list {margin-top:13px;}
+
+/* Tabs */
+.tabtree{position:relative;margin-bottom:10px}
+.tabtree .tabrow0{text-align:center;width:100%;margin:0;overflow:hidden;border-bottom:2px solid #FF7D3F}
+.tabtree .tabrow0 li{display:inline;float:left;font-size:13px}
+.tabtree .tabrow0 li.here a{position:relative;z-index:102}
+.tabtree .tabrow0 li a{display:block;background:#FFA24B;color:#fff;padding:5px 10px;margin-bottom:-1px;margin-right:4px}
+.tabtree .tabrow0 li.selected a{background:#FF7D3F}
+.tabtree .tabrow0 li a:hover{background:#FF7D3F;text-decoration:none}
+.tabtree .tabrow0 li a span{padding:0;margin:0;color:#fff;}
+.tabtree .tabrow0 ul,.tabtree .tabrow0 div{position:absolute;width:100%;border-top:1px solid #aaa;top:100%;margin:0;padding:.25em 0}
+.tabtree .tabrow0 .empty{height:1px;overflow:hidden;position:absolute;padding:0}
+.tabtree ul li.here ul{position:relative}
+
+/* ie */
+.ie8 #coursesearch input[type=submit], .ie8 #coursesearch2 input[type=submit], .ie8 #coursesearchnavbar input[type=submit], .ie8 input#searchforums{height:32px;position:relative;top:4px;}
+.ie7 #page-header-inner h1{padding-bottom:10px}
+
+
+
+
+
+

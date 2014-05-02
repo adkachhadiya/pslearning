@@ -1,0 +1,10 @@
+/** User **/
+.userinfobox td {border-width:0px;vertical-align:top;}
+.userinfobox .side {width:120px;text-align:center;}
+.userinfobox .list .label {font-weight:bold;text-align:right;}
+ 
+.user .rolesform,.user .searchform,.user #showall,.user #participantsform{text-align:center}
+.user #participantsform table{margin-top:10px}
+.user #participantsform td{text-align:left}
+.user table.controls{border:1px solid #DDD;background-color:#efefef;border-collapse:collapse;margin:5px auto}
+.user table.controls td{border-width:0}

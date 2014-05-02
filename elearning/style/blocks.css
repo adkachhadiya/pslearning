@@ -1,0 +1,40 @@
+
+/* Login side block */
+.block_login label{float:left;width:60px;position:relative;top:2px}
+.block_login .username,.block_login .password{overflow:hidden;margin-bottom:10px}
+#region-post input#login_username,#region-post input#login_password{width:138px}
+#region-post .loginform input[type=submit]{float:none;margin-left:60px;margin-bottom:10px}
+.block_login .footer div{padding-left:60px}
+
+/* RSS block */
+.block_rss_client ul.list li{margin-bottom:10px;border-bottom:1px solid #fff;padding-bottom:10px}
+/* Comments block */
+.comment-list{font-size:13px}
+.comment-list li{background-color:transparent!important; border-bottom:1px solid #fff; padding:5px;}
+.comment-list .no-overflow{width:auto}
+/* Message block*/
+.message .messagearea .messagesend .messagesendbox{width:90%}
+
+
+
+/* Private Files block */
+.filemanager-container{margin-top:10px;}
+.mform fieldset div div.filemanager-container{margin-top:10px;font-size:13px}
+.file-picker .fp-panel a{color:#FF7D3F}
+.file-picker .fp-repo-name{color:#FF7D3F;background-color:#fff !important:;margin:0}
+.file-picker .fp-list li{margin-bottom:0}
+.file-picker .fp-toolbar{background:#cecece;padding:.5em}
+
+
+
+
+/** Blocks **/
+.block {border:1px solid #ccc; margin-bottom:10px;overflow:hidden; padding: 10px;}
+.block h1,
+.block h2,
+.block h3,
+.block h4 {margin:0;}
+.block .header {margin:0;}
+.block .content {margin:0;}
+ 
+
